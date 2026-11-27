@@ -1,0 +1,5 @@
+# large / regenerable files (re-create with the steps in README.md)
+data/clean_urls.csv
+data/test_urls.csv
+database/urls.db
+__pycache__/
